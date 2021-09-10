@@ -1,1 +1,1 @@
-https://github.com/bankyt90/portfolio/
+https://bankyt90.github.io/portfolio/
